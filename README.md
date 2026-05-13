@@ -3,7 +3,9 @@
 Generate structured system designs using AI. Describe your requirements and get detailed architecture diagrams, components, and tech stacks powered by Gemini and LangChain. Import GitHub repositories for automated system design generation.
 
 > [!IMPORTANT]
+>
 > ## GSSoC 2026 Contributors
+>
 > This project is participating in **GirlScript Summer of Code 2026**.
 >
 > - Please **comment on an issue first** to request assignment before starting work.
